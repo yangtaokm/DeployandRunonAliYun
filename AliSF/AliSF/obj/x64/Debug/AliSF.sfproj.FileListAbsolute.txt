@@ -1,0 +1,1 @@
+C:\Users\taoyang\Desktop\ServiceFabric\Application1\Application1\obj\x64\Debug\AliSF.sfprojResolveAssemblyReference.cache
